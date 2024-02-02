@@ -1,0 +1,1 @@
+# guild-rate-tool
